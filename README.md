@@ -1,6 +1,10 @@
 # TheHunter: Call of the Wild Mod Organizer 2 Plugin
 A Mod Organizer 2 plugin adding support for TheHunter: Call of the Wild
 
+Youtube Tutorial:
+[![alt text](https://i.imgur.com/IEPUIer.png)](https://youtu.be/6r4VQe7xO3A)
+
+
 Install
 Extract the release file to your Mod Organizer 2 \plugins\basic_games\games\ directory. Add a new instance and it will find the game by SteamID.
 
