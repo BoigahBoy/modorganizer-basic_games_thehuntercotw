@@ -14,6 +14,6 @@ class CotwGame(BasicGame):
     GameShortName = "huntercotw"
     GameBinary = "theHunterCotW_F.exe"
     GameDataPath = ""
-    GameSaveExtension = "%DOCUMENTS%/Avalanche Studios/Saves/"
+    GameSaveExtension = "%DOCUMENTS%/Avalanche Studios\COTW\Saves"
     GameSteamId = 518790
     
